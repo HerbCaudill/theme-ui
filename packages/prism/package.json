@@ -32,7 +32,7 @@
   "gitHead": "5681b24d36f81fddd0d1d82cbb85136cc15dcd4c",
   "devDependencies": {
     "lodash.kebabcase": "^4.1.1",
-    "postcss": "^7.0.17",
+    "postcss": "^8.2.10",
     "postcss-js": "^2.0.2"
   }
 }
