@@ -28,7 +28,7 @@
     "gatsby": "^2.3.6",
     "gatsby-plugin-catch-links": "^2.0.13",
     "gatsby-plugin-compile-es6-packages": "^2.1.0",
-    "gatsby-plugin-mdx": "^1.0.4",
+    "gatsby-plugin-mdx": "^2.14.1",
     "gatsby-plugin-react-helmet": "^3.0.12",
     "gatsby-plugin-theme-ui": "^0.2.29",
     "lodash.merge": "^4.6.1",
